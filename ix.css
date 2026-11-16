@@ -100,5 +100,5 @@
 .cf-wa{display:block;margin-top:10px;text-align:center;border-radius:999px;background:#25d366;color:#fff!important;text-decoration:none!important;font:800 15px/1 Manrope,sans-serif;padding:15px}
 .cf-rs{align-self:flex-start;border:0;background:none;padding:0;font:700 12.5px Manrope,sans-serif;color:#9d7e62;text-decoration:underline;cursor:pointer}
 .cf-n{margin:0;font:500 11.5px/1.4 Manrope,sans-serif;color:#7a6a5a}
-@media(max-width:767px){.cf-main{grid-template-columns:1fr;gap:14px}.cf-stage{position:sticky;top:56px;z-index:5;padding:6px;border-radius:14px;box-shadow:0 6px 14px rgba(43,33,24,.12)}.cf-m{flex-basis:128px}.cf-dis{display:none}}
+@media(max-width:767px){.cf-main{grid-template-columns:1fr;gap:14px}.cf-stage{position:relative;top:auto;padding:6px;border-radius:14px}.cf-m{flex-basis:128px}.cf-dis{display:none}}
 @media(max-width:767px){.cf-q{font-size:28px}.cf-qd{font-size:22px}}
