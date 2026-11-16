@@ -102,3 +102,8 @@
 .cf-n{margin:0;font:500 11.5px/1.4 Manrope,sans-serif;color:#7a6a5a}
 @media(max-width:767px){.cf-main{grid-template-columns:1fr;gap:14px}.cf-stage{position:relative;top:auto;padding:6px;border-radius:14px}.cf-m{flex-basis:128px}.cf-dis{display:none}}
 @media(max-width:767px){.cf-q{font-size:28px}.cf-qd{font-size:22px}}
+.cf-svg{position:relative;min-height:200px}.cf-svg canvas{display:block;width:100%!important;height:auto!important;border-radius:12px}
+.cf-stage{position:relative}
+.cf-vw{position:absolute;top:18px;right:18px;display:flex;background:#fff;border-radius:999px;padding:3px;box-shadow:0 2px 8px rgba(43,33,24,.15)}
+.cf-vw button{border:0;background:none;border-radius:999px;padding:7px 13px;font:800 12px/1 Manrope,sans-serif;color:#7a6a5a;cursor:pointer}.cf-vw button.on{background:#2b2118;color:#fff}
+@media(max-width:767px){.cf-vw{top:12px;right:12px}.cf-dis{display:block}}
