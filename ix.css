@@ -152,4 +152,14 @@
 .cx-pr{font:800 18px/1.2 Manrope,sans-serif;color:#1f1f1f}.cx-best{display:block;color:#128c4b;font:700 11.5px Manrope,sans-serif;margin-top:3px}
 .cx td ul{margin:0;padding-left:16px}.cx td li{margin:0 0 3px}.cx td small{display:block;color:#7a6a5a;font-size:11.5px}
 .cx-eq td{color:#8a7b6c}.cx-go{display:inline-block;background:#2b2118;color:#fff!important;text-decoration:none;font:700 13px/1 Manrope,sans-serif;padding:10px 14px;border-radius:9px}
-@media(max-width:767px){.cx-sug{flex-wrap:nowrap;overflow-x:auto;white-space:nowrap}.cx-sug button{flex:0 0 auto}.cx-ov{padding:0;align-items:stretch}.cx{border-radius:0;max-height:none;height:100%}.cx tbody th,.cx thead th:first-child{width:92px;font-size:10.5px}.cx table{min-width:0;width:auto}.cx th,.cx td{padding:9px 8px;font-size:12.5px}.cx thead th:not(:first-child),.cx td{width:150px;min-width:150px}.cx-pr{font-size:16px}}
+@media(max-width:767px){.cx-ov{padding:0;align-items:stretch}.cx{border-radius:0;max-height:none;height:100%}.cx tbody th,.cx thead th:first-child{width:92px;font-size:10.5px}.cx table{min-width:0;width:auto}.cx th,.cx td{padding:9px 8px;font-size:12.5px}.cx thead th:not(:first-child),.cx td{width:150px;min-width:150px}.cx-pr{font-size:16px}}
+.cx-cnt{font:700 13px Manrope,sans-serif;color:#7a6a5a;white-space:nowrap}.cx-cnt.cx-warn{color:#c0392b}
+.cx-pick{display:flex;gap:10px;overflow-x:auto;padding:6px 20px 14px;scroll-snap-type:x proximity;flex:0 0 auto}
+.cx-pc{flex:0 0 140px;scroll-snap-align:start;display:flex;flex-direction:column;gap:4px;padding:7px;border:1.5px solid #ece2d4;border-radius:12px;background:#fff;text-align:left;cursor:pointer;font-family:Manrope,sans-serif}
+.cx-pc img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:8px;background:#f3eee6}
+.cx-pc span{font:800 12.5px/1.25 Manrope,sans-serif;color:#1f1f1f;min-height:31px}.cx-pc b{font:700 12px Manrope,sans-serif;color:#7a6a5a}
+.cx-pc i{font:700 11.5px/1 Manrope,sans-serif;font-style:normal;color:#a07c4f;border:1.5px solid #e4d4b6;border-radius:999px;padding:6px 8px;text-align:center;margin-top:2px}
+.cx-pc.on{border-color:#c9a063;background:#fbf7f1}.cx-pc.on i{background:#c9a063;border-color:#c9a063;color:#fff}
+.cx-tool2{padding-top:0;border-top:1px solid #eee4d6;padding-top:12px}.cx-sub{font:800 15px Manrope,sans-serif;color:#1f1f1f;flex:1}
+.cx-tb{flex:1 1 auto}
+.swiper-slide-duplicate .rv,.swiper-slide-duplicate.rv{opacity:1!important;transform:none!important}
