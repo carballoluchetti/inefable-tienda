@@ -210,3 +210,4 @@
 .lk-pop img{width:58px;height:58px;object-fit:cover;border-radius:8px;flex:0 0 58px}.lk-pop div{display:flex;flex-direction:column;gap:2px;min-width:0}.lk-pop b{font:700 13px/1.25 Manrope,sans-serif}.lk-pop strong{font:800 14px/1.2 Manrope,sans-serif}.lk-pop small{font:500 11px Manrope,sans-serif;color:#7a6a5a}.lk-pop em{font:700 12px/1 Manrope,sans-serif;font-style:normal;color:#a8823f}.lk-ld{font:500 12px Manrope,sans-serif;color:#7a6a5a;padding:6px}
 @media(min-width:768px){.lk-it{flex-basis:calc(50% - 6px)}.lk-hd h3{font-size:26px}}
 .js-product-detail .row>.col,.js-product-detail .row>[class*="col-"]{min-width:0}.ixcol,.ixcol-l{min-width:0;max-width:100%}
+.ix-eta.ix-eta-sc{margin:0 0 14px}
