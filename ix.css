@@ -212,4 +212,4 @@
 .js-product-detail .row>.col,.js-product-detail .row>[class*="col-"]{min-width:0}.ixcol,.ixcol-l{min-width:0;max-width:100%}
 .ix-eta.ix-eta-sc{margin:0 0 14px}
 .lk{position:relative}.lk-nav{display:none}@media(min-width:768px){.lk-nav{display:flex;justify-content:center;gap:10px;margin:8px 0 0}.lk-nav button{width:40px;height:40px;border-radius:50%;border:1.5px solid #d9c7ad;background:#fff;font:600 22px/1 Manrope,sans-serif;color:#3a2f25;cursor:pointer}.lk-nav button:hover{border-color:#1f1f1f}}
-@media(min-width:768px){.lk-one .lk-l{justify-content:center}.lk-one .lk-it{flex:0 1 760px}}
+@media(min-width:768px){.lk-one .lk-l{justify-content:center}.lk-one .lk-it{flex:0 1 580px}}
