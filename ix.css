@@ -110,3 +110,5 @@
 .cf-bs{display:flex;flex-wrap:wrap;gap:8px}.cf-bs button{border:1.5px solid #d9c9b4;background:#fff;border-radius:999px;padding:9px 13px;font:700 12.5px/1 Manrope,sans-serif;color:#5b4a3b;cursor:pointer}.cf-bs button.on{background:#2b2118;border-color:#2b2118;color:#fff}
 .cf-op{position:absolute;left:18px;top:18px;border:0;border-radius:999px;background:#fff;color:#2b2118;font:800 12px/1 Manrope,sans-serif;padding:10px 14px;box-shadow:0 2px 8px rgba(43,33,24,.15);cursor:pointer}.cf-op.on{background:#c9a063;color:#fff}
 @media(max-width:767px){.cf-op{left:12px;top:12px}}
+
+.md-p b em,.cf-p b em{font:700 15px Manrope,sans-serif;font-style:normal;color:#7a6a5a}
