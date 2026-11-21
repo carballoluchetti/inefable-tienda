@@ -254,3 +254,4 @@
 @media(max-width:767px){.dsb{display:none}}
 .js-item-product .js-item-name{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.5em}
 body.dsb-on .wa-fl{bottom:100px!important;transition:bottom .3s}
+.ixcol-l{scrollbar-width:none}.ixcol-l::-webkit-scrollbar{display:none}
