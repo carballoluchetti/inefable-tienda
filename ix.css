@@ -257,3 +257,4 @@ body.dsb-on .wa-fl{bottom:100px!important;transition:bottom .3s}
 .ixcol-l{scrollbar-width:none}.ixcol-l::-webkit-scrollbar{display:none}
 
 .fancybox__content.product-video{background:#000}.fancybox__content .js-external-video-iframe-container{width:100%;max-width:calc((100vh - 140px)*var(--vr,1.78));margin:0 auto}
+.js-product-slide.product-native-video-slide{background:#000}.js-product-slide.product-native-video-slide img.video-image{object-fit:contain!important;background:#000}.js-product-slide.product-native-video-slide .js-external-video-iframe-container{max-width:calc(100% * .5625 * var(--vr,1.78));margin:0 auto}
