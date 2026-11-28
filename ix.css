@@ -332,3 +332,7 @@ ul.nav-list .bft{margin:10px 16px 6px}ul.nav-list .bft img{height:38px}
 .cmb-tot b{display:block;font:800 20px/1.25 Manrope,sans-serif;color:#1f1f1f}.cmb-tot b em{font-style:normal;font-weight:600;font-size:13px;color:#7a6a5a}.cmb-tot small{margin-top:2px!important}
 .cmb-it i{font-style:normal;color:#b04a2a;font-size:12px}
 body.cmb-mod #compare_price_display{display:none!important}
+
+.cmb-qt{display:flex;align-items:center;gap:6px;margin-top:6px}.cmb-qt span{font:600 12.5px Manrope,sans-serif;color:#7a6a5a;margin-right:4px}.cmb-qt button{width:36px;height:32px;border:1.5px solid #e6ddd0;border-radius:8px;background:#fff;font:700 14px Manrope,sans-serif;color:#222;cursor:pointer}.cmb-qt button.on{border-color:#1E1E1E;box-shadow:0 0 0 1px #1E1E1E}
+.cmb-tot .cmb-ah{display:inline-block;margin:2px 0 4px;padding:3px 9px;border-radius:999px;background:#e9f4ec;color:#1f6b3a;font:700 12.5px Manrope,sans-serif;font-style:normal}
+.cmb-ahn{margin:8px 0 0;padding:8px 12px;border-radius:10px;background:#e9f4ec;color:#1f4d2e;font:500 13px/1.4 Manrope,sans-serif}
